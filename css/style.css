@@ -1,0 +1,31 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background: midnightblue;
+  color: #f4f4f4;
+}
+
+.pic {
+  display: block;
+  width: auto;
+  height: 300px;
+  align-items: center;
+  justify-content: center;
+}
+
+a {
+  color: #f4f4f4;
+  text-decoration: none;
+  list-style: none;
+}
+
+a:hover {
+  color: red;
+}
+
+a:visited {
+  color: goldenrod;
+}
+
+a:visited:hover {
+  color: red;
+}
